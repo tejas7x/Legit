@@ -38,8 +38,7 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
-AUTO_REPLY_MESSAGE = 
-" kiooo jjyyyyy "
+AUTO_REPLY_MESSAGE = " Sir please 🙏\n\nmessage here 👉 @Legit_4u"
 
 def display_banner():
     """Display the banner"""
