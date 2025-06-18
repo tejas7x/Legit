@@ -28,7 +28,7 @@ TARGET_USER = "vip_mrxop"
 # Timing Settings
 MIN_DELAY = 15
 MAX_DELAY = 40
-CYCLE_DELAY = 900
+CYCLE_DELAY = 1200
 MAX_CONCURRENT = 10
 
 # Set up logging
