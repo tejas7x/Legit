@@ -38,7 +38,7 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
-AUTO_REPLY_MESSAGE ="isiwi"
+AUTO_REPLY_MESSAGE ="Sir please \n\nMessage here 👉  @Legit_4u 🦂"
 
 def display_banner():
     """Display the banner"""
