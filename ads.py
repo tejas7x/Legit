@@ -26,8 +26,8 @@ os.makedirs(CREDENTIALS_FOLDER, exist_ok=True)
 TARGET_USER = "vip_mrxop"
 
 # Timing Settings
-MIN_DELAY = 15
-MAX_DELAY = 40
+MIN_DELAY = 20
+MAX_DELAY = 30
 CYCLE_DELAY = 1200
 MAX_CONCURRENT = 10
 
