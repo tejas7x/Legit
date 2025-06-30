@@ -38,7 +38,7 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
-AUTO_REPLY_MESSAGE ="Welcome sir 🙏\n“*  Pls Message on Main Seller I’d    “*\n\nMain Seller I’d 👉 @MR_XSHOP\n Main Seller I’d 👉 @MR_XSHOP"
+AUTO_REPLY_MESSAGE ="Welcome sir 🙏\n\n“*  Pls Message on Main Seller I’d    “*\n\nMain Seller I’d 👉 @MR_XSHOP\n Main Seller I’d 👉 @MR_XSHOP"
 
 def display_banner():
     """Display the banner"""
